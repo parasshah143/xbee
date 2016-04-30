@@ -1,0 +1,14 @@
+Youtube:	https://www.youtube.com/watch?v=odekkumB3WQ
+			http://www.tunnelsup.com/xbee-guide/
+
+Xctu Settings:
+
+Modem: XB-24-ZB
+Function set: Zigbee Coordinator API
+Version: 21A7
+
+11 Digital pin
+4 analog pin
+
+ 
+ 
